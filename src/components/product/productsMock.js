@@ -1,0 +1,26 @@
+export const products = [
+  {
+    id: 1,
+    managerId: "0x000",
+    title: "Blockchain hackathon",
+    description: "We're planning to make a hackathon.",
+    goal: 4,
+    currentAmount: 2,
+    reward: 2,
+    domain: "Software",
+    managerName: "Jane Paterson",
+    managerRating: 5,
+  },
+  {
+    id: 2,
+    managerId: "0x000",
+    title: "Blockchain hackathon 2",
+    description: "We're planning to make a hackathon.",
+    goal: 4,
+    currentAmount: 4,
+    reward: 2,
+    domain: "Software",
+    managerName: "Jane Paterson",
+    managerRating: 5,
+  },
+];
